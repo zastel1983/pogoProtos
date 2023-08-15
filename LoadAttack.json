@@ -864,6 +864,131 @@
     "en": "Feather Dance",
     "fr": "Danse-Plume"
   },
+   "352": {
+    "de": "Meteorologe",
+    "en": "",
+    "fr": ""
+  },
+   "353": {
+    "de": "Psychobeißer",
+    "en": "",
+    "fr": ""
+  },
+  "354": {
+    "de": "Dimensionswahn",
+    "en": "",
+    "fr": ""
+  },
+  "355": {
+    "de": "Dimensionsloch",
+    "en": "",
+    "fr": ""
+  },
+  "358": {
+    "de": "Läuterfeuer",
+    "en": "",
+    "fr": ""
+  },
+  "359": {
+    "de": "Eisspeer",
+    "en": "",
+    "fr": ""
+  },
+  "360": {
+    "de": "Luftstoß +",
+    "en": "",
+    "fr": ""
+  },
+  "361": {
+    "de": "Luftstoß ++",
+    "en": "",
+    "fr": ""
+  },
+  "362": {
+    "de": "Läuterfeuer +",
+    "en": "",
+    "fr": ""
+  },
+  "363": {
+    "de": "Läuterfeuer ++",
+    "en": "",
+    "fr": ""
+  },
+  "364": {
+    "de": "Akrobatik",
+    "en": "",
+    "fr": ""
+  },
+  "365": {
+    "de": "Scheinwerfer",
+    "en": "",
+    "fr": ""
+  },
+  "366": {
+    "de": "Nebelball",
+    "en": "",
+    "fr": ""
+  },
+  "367": {
+    "de": "Wirbler",
+    "en": "",
+    "fr": ""
+  },
+  "366": {
+    "de": "Nebelball",
+    "en": "",
+    "fr": ""
+  },
+  "369": {
+    "de": "Schocksamen",
+    "en": "",
+    "fr": ""
+  },
+  "370": {
+    "de": "Abblocker",
+    "en": "",
+    "fr": ""
+  },
+  "371": {
+    "de": "Schemenkraft",
+    "en": "",
+    "fr": ""
+  },
+  "372": {
+    "de": "Meteorstrahl",
+    "en": "",
+    "fr": ""
+  },
+  "374": {
+    "de": "Kreuzdonner",
+    "en": "",
+    "fr": ""
+  },
+  "375": {
+    "de": "Kreuzflamme",
+    "en": "",
+    "fr": ""
+  },
+    "376": {
+    "de": "Poltergeist",
+    "en": "",
+    "fr": ""
+  },
+    "377": {
+    "de": "Pferdestärke",
+    "en": "",
+    "fr": ""
+  },
+  "378": {
+    "de": "Eiszeit",
+    "en": "",
+    "fr": ""
+  },
+  "379": {
+    "de": "Breitseite",
+    "en": "",
+    "fr": ""
+  },
   "null": {
     "de": "load Attack fehlt",
     "en": "load Attack is missing",
